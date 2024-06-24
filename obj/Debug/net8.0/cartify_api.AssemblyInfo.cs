@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cartify_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b3ef493c32ccb7468b2ef75773b993273e3f27")]
 [assembly: System.Reflection.AssemblyProductAttribute("cartify_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cartify_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

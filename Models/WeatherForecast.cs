@@ -1,4 +1,4 @@
-namespace cartify_api
+namespace cartify_api.Models
 {
     public class WeatherForecast
     {

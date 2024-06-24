@@ -1,3 +1,4 @@
+using cartify_api.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace cartify_api.Controllers
